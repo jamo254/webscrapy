@@ -1,0 +1,199 @@
+Country, Rank, City, Population, Cost of Living
+United States,1., $692,New York City,United States,   Population  8.8M,     Cost of living  $3879
+China,2,$440,London ,United Kingdom   Population  8.91M     Cost of living  $3029
+India,3,$2317,Beijing,China   Population  21.9M     Cost of living  $1150
+United States,4,$573,TokyoJapan   Population  14M     Cost of living  $1601
+Indonesia,5,$332,Shanghai,China   Population  24.9M,     Cost of living  $1183
+Pakistan,6,$609,Singapore CitySingapore   Population  5.87M     Cost of living  $3416
+Nigeria,7,$736,SeoulSouth Korea   Population  9.67M     Cost of living  $1513
+Brazil,8,$455,ShenzhenChina   Population  17.5M     Cost of living  $1043
+Bangladesh,9,$615,ChongqingChina   Population  32.1M     Cost of living  $684
+Russia,10,$1155,Los AngelesUnited States   Population  3.9M     Cost of living  $3145
+Japan,11,$911,Hong Kong,China   Population  7.41M     Cost of living  $2720
+Mexico,12,$623,GuangzhouChina   Population  18.7M     Cost of living  $760
+Philippines,13,$759,SydneyAustralia   Population  4.84M     Cost of living  $2564
+Ethiopia,14,$628,BangaloreIndia   Population  12.3M     Cost of living  $576
+Vietnam,15,$350,DelhiIndia   Population  26.5M     Cost of living  $478
+Egypt,16,$1016,ChicagoUnited States   Population  2.75M     Cost of living  $2425
+DR Congo,17,$704,ChengduChina   Population  20.9M     Cost of living  $677
+Iran,18,$515,RiyadhSaudi Arabia   Population  7.01M     Cost of living  $1360
+Turkey,19,$1533,MelbourneAustralia   Population  4.53M     Cost of living  $2266
+Germany,20,$1554,DubaiUnited Arab Emirates   Population  3.33M     Cost of living  $1975
+France,21,$2017,KinshasaDR Congo   Population  11.9M     Cost of living  $1085
+United Kingdom,22,$835,TianjinChina   Population  13.9M     Cost of living  $724
+Thailand,23,$1405,MoscowRussia   Population  12.5M     Cost of living  $942
+Italy,24,$843,BerlinGermany   Population  3.68M     Cost of living  $2180
+South Africa,25,$700,HoustonUnited States   Population  2.3M     Cost of living  $2209
+Tanzania,26,$834,HangzhouChina   Population  11.9M     Cost of living  $849
+Myanmar,27,$1138,Xi'anChina   Population  13M     Cost of living  $563
+South Korea,28,$646,MumbaiIndia   Population  15.4M     Cost of living  $695
+Colombia,29,$595,YokohamaJapan   Population  3.76M     Cost of living  $1463
+Kenya,30,$1318,TorontoCanada   Population  2.79M     Cost of living  $2460
+Spain,31,$603,MadridSpain   Population  3.28M     Cost of living  $1642
+Argentina,32,$635,JeddahSaudi Arabia   Population  4.7M     Cost of living  $1084
+Uganda,33,$439,BusanSouth Korea   Population  3.45M     Cost of living  $1095
+Algeria,34,$548,PhoenixUnited States   Population  1.61M     Cost of living  $2445
+Ukraine,35,$783,BrisbaneAustralia   Population  2.36M     Cost of living  $2299
+Sudan,36,$1089,PhiladelphiaUnited States   Population  1.6M     Cost of living  $2479
+Poland,37,$732,Mexico CityMexico   Population  9.21M     Cost of living  $1208
+Iraq,38,$441,IstanbulTurkey   Population  15.5M     Cost of living  $778
+Afghanistan,39,$625,San DiegoUnited States   Population  1.39M     Cost of living  $3215
+Morocco,40,$1901,PerthAustralia   Population  2.14M     Cost of living  $2251
+Canada,41,$599,San JoseUnited States   Population  1.01M     Cost of living  $3115
+Uzbekistan,42,$1136,JohannesburgSouth Africa   Population  4.43M     Cost of living  $967
+Saudi Arabia,43,$872,DallasUnited States   Population  1.3M     Cost of living  $2426
+Angola,44,$540,HyderabadIndia   Population  9.31M     Cost of living  $458
+Ghana,45,$598,ParisFrance   Population  2.15M     Cost of living  $2194
+Malaysia,46,$1035,Hamburg CityGermany   Population  1.85M     Cost of living  $1970
+Mozambique,47,$789,San AntonioUnited States   Population  1.43M     Cost of living  $2051
+Peru,48,$374,New TaipeiTaiwan   Population  4.36M     Cost of living  $1032
+Nepal,49,$784,ViennaAustria   Population  1.97M     Cost of living  $1749
+Venezuela,50,$529,ChennaiIndia   Population  10.3M     Cost of living  $424
+Yemen,51,$2212,IncheonSouth Korea   Population  2.94M     Cost of living  $1054
+Australia,52,$537,Sao PauloBrazil   Population  12.4M     Cost of living  $1062
+Madagascar,53,$1595,OsakaJapan   Population  2.75M     Cost of living  $1212
+North Korea,54,$958,PuneIndia   Population  5.95M     Cost of living  $480
+Ivory Coast,55,$825,Kuwait CityKuwait   Population  2.99M     Cost of living  $1380
+Cameroon,56,$969,MunichGermany   Population  1.49M     Cost of living  $2149
+Taiwan,57,$1016,RomeItaly   Population  2.87M     Cost of living  $1716
+Niger,58,$443,Abu DhabiUnited Arab Emirates   Population  1.48M     Cost of living  $1897
+Sri Lanka,59,$770,NagoyaJapan   Population  2.33M     Cost of living  $1332
+Burkina Faso,60,$532,MontrealCanada   Population  1.76M     Cost of living  $1760
+Mali,61,$1040,KawasakiJapan   Population  1.54M     Cost of living  $1094
+Chile,62,$784,Ho Chi MinhVietnam   Population  10.4M     Cost of living  $725
+Romania,63,$702,AucklandNew Zealand   Population  1.47M     Cost of living  $2127
+Kazakhstan,64,$578,TaipeiTaiwan   Population  2.6M     Cost of living  $1127
+Malawi,65,$506,DaeguSouth Korea   Population  2.44M     Cost of living  $1161
+Syria,66,$779,JakartaIndonesia   Population  10.6M     Cost of living  $737
+Ecuador,67,$1862,DhakaBangladesh   Population  16.8M     Cost of living  $512
+Netherlands,68,$852,LimaPeru   Population  9.94M     Cost of living  $951
+Guatemala,69,$965,HanoiVietnam   Population  8.25M     Cost of living  $639
+Zambia,70,$1154,SantiagoChile   Population  6.26M     Cost of living  $1191
+Senegal,71,$764,CalgaryCanada   Population  1.31M     Cost of living  $1996
+Cambodia,72,$521,DohaQatar   Population  1.19M     Cost of living  $1940
+Chad,73,$873,Saint PetersburgRussia   Population  5.38M     Cost of living  $739
+Zimbabwe,74,$698,BangkokThailand   Population  5.68M     Cost of living  $981
+Rwanda,75,$944,AmsterdamNetherlands   Population  921K     Cost of living  $2412
+Guinea,76,$512,KobeJapan   Population  1.52M     Cost of living  $1274
+South Sudan,77,$1520,GwangjuSouth Korea   Population  1.49M     Cost of living  $970
+Belgium,78,$431,BaghdadIraq   Population  6.96M     Cost of living  $857
+Tunisia,79,$428,AdelaideAustralia   Population  1.3M     Cost of living  $2153
+Burundi,80,$1234,DaejeonSouth Korea   Population  1.48M     Cost of living  $1009
+Cuba,81,$728,MeccaSaudi Arabia   Population  1.68M     Cost of living  $977
+Benin,82,$697,LuandaAngola   Population  2.49M     Cost of living  $1005
+Bolivia,83,$701,AhmedabadIndia   Population  7.65M     Cost of living  $684
+Somalia,84,$527,SapporoJapan   Population  1.96M     Cost of living  $1101
+Haiti,85,$1284,TaichungTaiwan   Population  3.03M     Cost of living  $971
+Czech Republic,86,$1087,BirminghamUnited Kingdom   Population  1.14M     Cost of living  $1854
+Greece,87,$830,SuwonSouth Korea   Population  1.23M     Cost of living  $1046
+Jordan,88,$1479,OttawaCanada   Population  1.02M     Cost of living  $2005
+Sweden,89,$828,BarcelonaSpain   Population  1.64M     Cost of living  $1720
+Dominican Republic,90,$1180,UlsanSouth Korea   Population  1.15M     Cost of living  $1120
+Portugal,91,$641,HuamboAngola   Population  844K     Cost of living  $738
+Azerbaijan,92,$1680,Mbuji-MayiDR Congo   Population  2.89M     Cost of living  $1043
+United Arab Emirates,93,$969,StockholmSweden   Population  979K     Cost of living  $1936
+Hungary,94,$614,SendaiJapan   Population  1.06M     Cost of living  $1103
+Belarus,95,$1707,ZurichSwitzerland   Population  443K     Cost of living  $3262
+Israel,96,$1668,KaohsiungTaiwan   Population  2.73M     Cost of living  $903
+Austria,97,$538,EdmontonCanada   Population  1.01M     Cost of living  $1742
+Papua New Guinea,98,$591,CologneGermany   Population  1.07M     Cost of living  $1751
+Tajikistan,99,$2850,WarsawPoland   Population  1.86M     Cost of living  $1389
+Switzerland,100,$810,FrankfurtGermany   Population  759K     Cost of living  $1890
+Honduras,101,$729,
+Togo,102,$719,
+Sierra Leone,103,$923,
+Serbia,104,$786,
+Bulgaria,105,$865,
+Laos,106,$566,
+Paraguay,107,$556,
+Kyrgyzstan,108,$429,
+Libya,109,$1234,
+Turkmenistan,110,$1243,
+Lebanon,111,$3408,
+Singapore,112,$1922,
+Denmark,113,$931,
+El Salvador,114,$1580,
+Finland,115,$1964,
+Norway,116,$1091,
+Slovakia,117,$560,
+Congo,118,$877,
+Palestine,119,$524,
+Liberia,120,$1073,
+Costa Rica,121,$642,
+Nicaragua,122,$2343,
+Ireland,123,$1876,
+New Zealand,124,$1115,
+Oman,125,$514,
+Central African Republic,126,$717,
+Mauritania,127,$1379,
+Kuwait,128,$1229,
+Panama,129,$1074,
+Croatia,130,$655,
+Bosnia and Herzegovina,131,$1093,
+Georgia,132,$518,
+Eritrea,133,$1196,
+Uruguay,134,$703,
+Mongolia,135,$1145,
+Armenia,136,$1107,
+Lithuania,137,$792,
+Albania,138,$1008,
+Jamaica,139,$610,
+Gambia,140,$1939,
+Qatar,141,$640,
+Moldova,142,$720,
+Namibia,143,$592,
+Botswana,144,$586,
+Lesotho,145,$1230,
+Slovenia,146,$648,
+Gabon,147,$1002,
+Latvia,148,$778,
+Guinea-Bissau,149,$629,
+North Macedonia,150,$1077,
+Bahrain,151,$1103,
+Trinidad and Tobago,152,$1224,
+Estonia,153,$523,
+East Timor,154,$1183,
+Equatorial Guinea,155,$709,
+Mauritius,156,$547,
+Eswatini,157,$1530,
+Cyprus,158,$550,
+Djibouti,159,$770,
+Fiji,160,$548,
+Comoros,161,$409,
+Bhutan,162,$854,
+Guyana,163,$2271,
+Luxembourg,164,$861,
+Montenegro,165,$1483,
+Solomon Islands,166,$920,
+Suriname,167,$760,
+Cape Verde,168,$1471,
+Malta,169,$1215,
+Maldives,170,$1096,
+Brunei,171,$2111,
+Bahamas,172,$869,
+Belize,173,$2457,
+Iceland,174,$1343,
+Barbados,175,$2010,
+Vanuatu,176,$878,
+Sao Tome and Principe,177,$971,
+Samoa,178,$1101,
+Saint Lucia,179,$1339,
+Curacao,180,$507,
+Kiribati,181,$969,
+Saint Vincent,182,$900,
+Tonga,183,$1074,
+Grenada,184,$1585,
+Seychelles,185,$1573,
+Antigua and Barbuda,186,$1336,
+Andorra,187,$876,
+Dominica,188,$3255,
+Cayman Islands,189,$1196,
+Saint Kitts and Nevis,190,$1557,
+Marshall Islands,191,$3955,
+Monaco,192,$2326,
+Liechtenstein,193,$1268,
+San Marino,194,$1161,
+Palau,195,$709,
+Nauru,196,$564,
+Tuvalu,197,$869,
+Vatican,,,
