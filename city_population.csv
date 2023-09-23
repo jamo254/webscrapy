@@ -1,19 +1,19 @@
-City_Population
-New York City United States   Population  8.8M     Cost of living  $3879
-London United Kingdom   Population  8.91M     Cost of living  $3029
+City, Country, Population, Cost_of_living
+New York City, United States,   Population  8.8M,  Cost of living  $3879
+London, United Kingdom,   Population  8.91M,     Cost of living  $3029
 Beijing, China,   Population  21.9M,     Cost of living  $1150
-Tokyo, Japan,   Population  14M     Cost of living  $1601
-Shanghai China   Population   24.9M     Cost of living  $1183
-Singapore City Singapore   Population  5.87M     Cost of living  $3416
-Seoul South Korea   Population  9.67M     Cost of living  $1513
-Shenzhen China   Population  17.5M     Cost of living  $1043
-Chongqing China   Population  32.1M     Cost of living  $684
-Los Angeles United States   Population  3.9M     Cost of living  $3145
-Hong Kong China   Population  7.41M     Cost of living  $2720
-Guangzhou China   Population  18.7M     Cost of living  $760
-Sydney Australia   Population  4.84M     Cost of living  $2564
-Bangalore India   Population  12.3M     Cost of living  $576
-Delhi India   Population  26.5M     Cost of living  $478
+Tokyo, Japan,   Population  14M,     Cost of living  $1601
+Shanghai, China,   Population   24.9M,     Cost of living  $1183
+Singapore City, Singapore ,  Population  5.87M,     Cost of living  $3416
+Seoul, South Korea,   Population  9.67M,     Cost of living  $1513
+Shenzhen, China,   Population  17.5M,     Cost of living  $1043
+Chongqing, China,   Population  32.1M,     Cost of living  $684
+Los Angeles, United States,   Population  3.9M,     Cost of living  $3145
+Hong Kong, China,   Population  7.41M,     Cost of living  $2720
+Guangzhou, China,   Population  18.7M,     Cost of living  $760
+Sydney, Australia,   Population  4.84M,     Cost of living  $2564
+Bangalore, India,   Population  12.3M,     Cost of living  $576
+Delhi India,   Population  26.5M     Cost of living  $478
 Chicago United States   Population  2.75M     Cost of living  $2425
 Chengdu China   Population  20.9M     Cost of living  $677
 Riyadh Saudi Arabia   Population  7.01M     Cost of living  $1360
@@ -24,16 +24,16 @@ TianjinChina   Population  13.9M     Cost of living  $724
 MoscowRussia   Population  12.5M     Cost of living  $942
 BerlinGermany   Population  3.68M     Cost of living  $2180
 HoustonUnited States   Population  2.3M     Cost of living  $2209
-HangzhouChina   Population  11.9M     Cost of living  $849
-Xi'anChina   Population  13M     Cost of living  $563
-MumbaiIndia   Population  15.4M     Cost of living  $695
-YokohamaJapan   Population  3.76M     Cost of living  $1463
-TorontoCanada   Population  2.79M     Cost of living  $2460
-MadridSpain   Population  3.28M     Cost of living  $1642
-JeddahSaudi Arabia   Population  4.7M     Cost of living  $1084
-BusanSouth Korea   Population  3.45M     Cost of living  $1095
-PhoenixUnited States   Population  1.61M     Cost of living  $2445
-BrisbaneAustralia   Population  2.36M     Cost of living  $2299
+HangzhouChina,   Population  11.9M     Cost of living  $849
+Xi'an,China,   Population  13M     Cost of living  $563
+Mumbai,India,   Population  15.4M     Cost of living  $695
+Yokohama,Japan   Population  3.76M     Cost of living  $1463
+Toronto,Canada   Population  2.79M     Cost of living  $2460
+Madrid,Spain   Population  3.28M ,    Cost of living  $1642
+Jeddah,Saudi Arabia,   Population  4.7M,     Cost of living  $1084
+Busan,South Korea,   Population  3.45M,     Cost of living  $1095
+Phoenix,United States,   Population  1.61M,     Cost of living  $2445
+Brisbane,Australia   Population,  2.36M     Cost of living  $2299
 PhiladelphiaUnited States   Population  1.6M     Cost of living  $2479
 Mexico CityMexico   Population  9.21M     Cost of living  $1208
 IstanbulTurkey   Population  15.5M     Cost of living  $778
